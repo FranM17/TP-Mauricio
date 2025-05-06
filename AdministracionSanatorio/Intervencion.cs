@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdministracionSanatorio
 {
-    class Class1
+    class Intervencion
     {
     }
 }
