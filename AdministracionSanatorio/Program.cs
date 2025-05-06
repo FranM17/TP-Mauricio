@@ -6,7 +6,7 @@ namespace AdministracionSanatorio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Hospital hospital = new Hospital();
         }
     }
 }
