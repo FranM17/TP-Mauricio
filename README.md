@@ -28,6 +28,6 @@ Programar las clases y metodos necesarios para:
   - Un menu de opciones(en la clase Program).
 
 # Aclaraciones
-  Cada clase debe estar en un archivo distinto, respetando la estructura proporcionada.
-  El menu de opciones debe ser iterativo y contar con una opcion para cada requisito y una opcion para salir.
+  - Cada clase debe estar en un archivo distinto, respetando la estructura proporcionada.
+  - El menu de opciones debe ser iterativo y contar con una opcion para cada requisito y una opcion para salir.
   
