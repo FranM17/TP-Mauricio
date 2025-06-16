@@ -4,3 +4,20 @@ C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practico
 C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfo.cs
 C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.sourcelink.json
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.AssemblyReference.cache
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfoInputs.cache
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfo.cs
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.CoreCompileInputs.cache
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.sourcelink.json
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.exe
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.deps.json
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.runtimeconfig.json
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.runtimeconfig.dev.json
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.dll
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\bin\Debug\net5.0\AdministracionSanatorio.pdb
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.dll
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\refint\AdministracionSanatorio.dll
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.pdb
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.genruntimeconfig.cache
+C:\Users\veron\OneDrive\Documents\repos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\ref\AdministracionSanatorio.dll

@@ -1,10 +1,14 @@
-public class Hospital
-{
-    public List<Doctor> Doctores { get; set; } = new List<Doctor>();
-    public List<Paciente> Pacientes { get; set; } = new List<Paciente>();
-    public List<Intervencion> Intervenciones { get; set; } = new List<Intervencion>();
+using System.Collections.Generic;
 
-    public Hospital()
+namespace AdministracionSanatorio
+{
+    public class Hospital
+    {
+        public List<Doctor> Doctores { get; set; } = new List<Doctor>();
+        public List<Paciente> Pacientes { get; set; } = new List<Paciente>();
+        public List<Intervencion> Intervenciones { get; set; } = new List<Intervencion>();
+
+        public Hospital()
     {
         // Doctores
         Doctores.Add(new Doctor("Juan Pérez", "12345", "Cardiología", true));
@@ -37,3 +41,5 @@ public class Hospital
         Intervenciones.Add(new IntervencionAltaComplejidad("INT010", "Craneotomía", "Neurología", 270000));
     }
 }
+}
+
