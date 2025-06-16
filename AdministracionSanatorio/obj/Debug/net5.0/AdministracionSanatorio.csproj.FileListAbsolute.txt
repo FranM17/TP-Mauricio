@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Fran\escuela\Adapt Amb Trab (Gzles)\Trabajos Practicos\Sanatorio\AdministracionSanatorio\obj\Debug\net5.0\AdministracionSanatorio.sourcelink.json
